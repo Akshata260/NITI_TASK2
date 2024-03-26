@@ -1,4 +1,4 @@
-# NITI_TASK2
+#Intern NITI Internship Task 2: Password Generator
 import random
 import array
 
