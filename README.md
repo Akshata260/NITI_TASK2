@@ -1,4 +1,5 @@
-# NITI_TASK2import random
+# NITI_TASK2
+import random
 import array
 
 # maximum length of password needed
